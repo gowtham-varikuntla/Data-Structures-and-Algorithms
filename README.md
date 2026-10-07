@@ -1,6 +1,5 @@
 # Data-Structures-and-Algorithms
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
+This repository contains my solutions to various DSA problems, organized by topic. The main goal is to strengthen problem-solving skills, understand core data structures and algorithms, and prepare for coding interviews, placements, and competitive programming.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
