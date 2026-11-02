@@ -14,5 +14,14 @@ This repository contains my solutions to various DSA problems, organized by topi
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gowtham-varikuntla/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gowtham-varikuntla/Data-Structures-and-Algorithms/tree/master/0007-reverse-integer) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gowtham-varikuntla/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gowtham-varikuntla/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
